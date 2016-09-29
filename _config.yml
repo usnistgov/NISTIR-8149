@@ -1,0 +1,40 @@
+# Site settings
+title: NISTIR 8149 - Developing Trust Frameworks to Support Identity Federations
+description: Draft NISTIR 8149
+baseurl: "/NISTIR-8149" # the subpath of your site, e.g. /blog/
+url: "https://pages.nist.gov/" # the base hostname & protocol for your site
+
+# GitHub information
+org_name: usnistgov
+repo_name: NISTIR-8149
+
+# Build settings
+markdown: kramdown
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+
+include:
+- _stylesheets
+- _javascript
+
+navigation:
+- text: Home
+  url: /NISTIR-8149/
+  
+# Custom site configuration
+lang: en
+
+host: 0.0.0.0

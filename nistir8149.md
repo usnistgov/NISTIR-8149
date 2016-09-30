@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "DRAFT NIST Special Publication 800-63-3"
-description: "DRAFT NIST Special Publication 800-63-3"
+title: "DRAFT NISTIR 8149"
+description: "DRAFT NISTIR 8149"
 ---
 
 <a name="top"></a>

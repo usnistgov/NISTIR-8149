@@ -1,3 +1,13 @@
+---
+layout: page
+title: "DRAFT NIST Special Publication 800-63-3"
+description: "DRAFT NIST Special Publication 800-63-3"
+---
+
+<a name="top"></a>
+
+{{ site.time | date_to_rfc822 }}
+
 <div class="text-right" markdown="1">  
 
 # <a name="800-63-3"></a>DRAFT NISTIR 8149
@@ -59,7 +69,7 @@ Organizations are encouraged to review all draft publications during public comm
 <div class="text-center" markdown="1">
 
 <br />
-**Public comment period: Month Day, YYYY through Month Day, YYYY**
+**Public comment period: October 03, 2016 through November 01, 2016**
 
 National Institute of Standards and Technology  
 Attn: Applied Cybersecurity Division, Information Technology Laboratory  
